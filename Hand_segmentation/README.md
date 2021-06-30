@@ -1,3 +1,3 @@
-[1] Hand Semantic Segmentation 
+## [1] Hand Semantic Segmentation 
 
-*You can find same source code in Demo : /home/demo/Workspace/jumi/SemSeg
+*You can find same source code in Demo : /home/demo/Workspace/jumi/SemSeg*
